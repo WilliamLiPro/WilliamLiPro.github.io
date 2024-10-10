@@ -7,7 +7,7 @@ comments: true
 author: william
 ---
 
-Hello, welcome to my blog. I'm a ordinary engineer who would like to communicate technology with everyone. 
+Hello, welcome to my blog. I am a ordinary engineer who would like to communicate technology with everyone. 
 
 <!-- more -->
 
