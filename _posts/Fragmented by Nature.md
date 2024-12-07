@@ -73,10 +73,12 @@ Here is the output of demo_detour.py:
 * All the variables adopted in the regressions, as well as Stata code are included in folder 'Regression_Analysis'. See [https://github.com/WilliamLiPro/Fragmented_by_Nature](https://github.com/WilliamLiPro/Fragmented_by_Nature)
 
 * Statistical analysis of detour index
-![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Statistical_analysis_of_detour_index.jpeg)
+
+![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/blob/main/result/Statistical_analysis_of_detour_index.jpeg)
 
 * Distribution of share of barriers and nonconvexity across the world
-![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Distribution_of_share_of_barriers_and_nonconvexity_across_the_world.jpeg)
+
+![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/blob/main/result/Distribution_of_share_of_barriers_and_nonconvexity_across_the_world.jpeg)
 
 Description: 
 
