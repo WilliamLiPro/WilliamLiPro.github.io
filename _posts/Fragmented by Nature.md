@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Fragmented by Nature. Nature cities."
+title: "Fragmented by Nature. Nature cities"
 date:   2024-12-7
 tags: [notice]
 comments: true
 author: william
 ---
-
-# Fragmented by Nature
 
 Research Paper: Natural fragmentation increases urban density but impedes transportation and city growth worldwide. Nature Cities. [https://doi.org/10.1038/s44284-024-00118-5](https://doi.org/10.1038/s44284-024-00118-5).
 
