@@ -8,13 +8,14 @@ author: william
 ---
 
 # Fragmented by Nature
-Data sources for three novel worldwide urban indexes--the share of natural barriers, average dyadic nonconvexity, and the average road detour.
 
 Research Paper: Natural fragmentation increases urban density but impedes transportation and city growth worldwide. Nature Cities. [https://doi.org/10.1038/s44284-024-00118-5](https://doi.org/10.1038/s44284-024-00118-5).
 
 Author: Luyao Wang, Albert Saiz, Weipeng Li
 
 Code repository: [https://github.com/WilliamLiPro/Fragmented_by_Nature](https://github.com/WilliamLiPro/Fragmented_by_Nature)
+
+<!-- more -->
 
 ## Share of barrier
 Share of barrier: The Share of barriers index quantifies the proportion of three types of geographic barriers relative to the total urban area within a i km (10 km or 5 km) distance from the city center. This calculation is independent of the city's shape. In our methodology, the share of barriers within an i km distance from each urban center is determined by the following calculation:
@@ -70,8 +71,12 @@ Here is the output of demo_detour.py:
 ##  Regression analysis
 
 * All the variables adopted in the regressions, as well as Stata code are included in folder 'Regression_Analysis'. See [https://github.com/WilliamLiPro/Fragmented_by_Nature](https://github.com/WilliamLiPro/Fragmented_by_Nature)
-![Statistical analysis of detour index](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Statistical analysis of detour index.jpeg)
-![Distribution of share of barriers and nonconvexity across the world](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Distribution of share of barriers and nonconvexity across the world.jpeg)
+
+* Statistical analysis of detour index
+![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Statistical analysis of detour index.jpeg)
+
+* Distribution of share of barriers and nonconvexity across the world
+![image](https://github.com/WilliamLiPro/Fragmented_by_Nature/result/Distribution of share of barriers and nonconvexity across the world.jpeg)
 
 Description: 
 
