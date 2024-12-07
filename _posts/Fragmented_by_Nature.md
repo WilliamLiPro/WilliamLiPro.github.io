@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fragmented by Nature. Nature cities"
+title: "Our new paper on nature cities"
 date:   2024-12-7
 tags: [notice]
 comments: true
