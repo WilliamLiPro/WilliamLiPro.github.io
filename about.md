@@ -6,11 +6,11 @@ permalink: /about/
 
 ## About me
 
-Hello, I am William, an ordinary software engineer.
+Hello, I am William, a researcher in artificial intelligence.
 
-This is my persona blog created based on GitHub Pages to share the technology.
+This is my persona blog created based on GitHub Pages to share my research and interesting technology.
 
-If you have any question, please contact me via email. 
+If you have any question or any cooperation intention, please contact me via email. 
 
 ## Copyright
 

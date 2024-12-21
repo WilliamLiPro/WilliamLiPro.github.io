@@ -7,7 +7,7 @@ comments: true
 author: william
 ---
 
-Hello, welcome to my blog. I am a ordinary engineer who would like to communicate technology with everyone. 
+Hello, welcome to my blog. I am a researcher in artificial intelligence, who would like to share technology with everyone. If you want to collaborate with me, please contact via email.
 
 <!-- more -->
 
